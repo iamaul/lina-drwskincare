@@ -9,7 +9,7 @@ export const SEO: DefaultSeoProps = {
         url: siteConfig.url,
         site_name: siteConfig.title
     },
-    title: 'Welcome!',
+    title: '✨',
     titleTemplate: `%s ${siteConfig.title}`,
     description: siteConfig.description,
 }
