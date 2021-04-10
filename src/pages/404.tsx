@@ -2,6 +2,7 @@ import {
     Box,
     Button,
     Image,
+    Heading,
     useColorModeValue,
 } from '@chakra-ui/react';
 
@@ -19,7 +20,8 @@ const Page404 = () => {
             <Container>
                 <Box width="50%" margin="0 auto" py={{ base: 20, md: 28 }}>
                     <Image src="/404.svg" />
-                    <Box textAlign="center">
+                    <Heading textAlign="center">Page not found</Heading>
+                    <Box textAlign="center" marginTop={3}>
                         <NavLink href="/" passHref>
                             <Button
                                 rounded={'full'}
