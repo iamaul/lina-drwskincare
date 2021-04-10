@@ -11,18 +11,28 @@ import ToggleColorMode from './ToggleColorMode';
 const Navbar = () => {
     return (
         <Flex
-            as='nav'
-            flexDir='row'
-            justify='space-between'
-            align='center'
+            as="nav"
+            pos="fixed"
+            w={'full'}
+            justify="space-between"
+            align="center"
             px={{ base: 4, md: 20 }}
             py={3}
             top={0}
+            boxShadow={'sm'}
+            zIndex="999"
             borderBottom={1}
             borderStyle={'solid'}
             borderColor={useColorModeValue('gray.200', 'gray.500')}
+            css={{
+                backdropFilter: 'saturate(180%) blur(5px)',
+                backgroundColor: useColorModeValue(
+                  'rgba(255, 255, 255, 0.8)',
+                  'rgba(26, 32, 44, 0.8)'
+                ),
+            }}
         >
-            <Text fontSize='xl' fontWeight='bold'>
+            <Text fontSize="xl" fontWeight="bold">
                 {siteConfig.title}
             </Text>
   

@@ -29,7 +29,7 @@ const MobileDrawer = () => {
             <IconButton
                 d={{ base: 'block', md: 'none' }}
                 aria-label='Mobile Menu'
-                colorScheme='red'
+                bg={'#FF0080'}
                 isRound
                 icon={<Icon as={AiOutlineMenu} />}
                 onClick={onOpen}
