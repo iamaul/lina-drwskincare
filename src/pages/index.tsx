@@ -70,7 +70,7 @@ const Index = () => {
                 size={'lg'}
                 fontWeight={'normal'}
                 px={6}
-                colorScheme={'red'}
+                color="white"
                 bg={'#FF0080'}
                 _hover={{ bg: 'red.300' }}
                 leftIcon={<RiWhatsappLine />}>
