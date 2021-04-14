@@ -1,0 +1,110 @@
+[
+    {
+        "product_name": "Milk Cleanser",
+        "product_description": "Double Cleansing adalah salah satu tahapan paling penting dalam perawatan wajah. Karena itu, Milk Cleanser DRW Skincare hadir menyempurnakan double cleansing anda, yang dapat membantu membersihkan sisa-sisa make-up, mengangkat debu, kotoran, bahkan polusi, setelah beraktivitas seharian penuh di luar ruangan. Selain itu, milk cleanser ini juga dapat mengatasi kulit anda yang kering.",
+        "product_image": "milk_cleanser"
+    },
+    {
+        "product_name": "Peeling Gel",
+        "product_description": "Peeling Gel DRW Skincare, scrub wajah yang diperkaya ekstrak vitamin C dan E, berfungsi untuk menutrisi, mencerahkan, dan membersihkan kulit dari kotoran hingga ke pori-pori, mengangkat sel kulit mati, hingga membantu menghilangkan  komedo membandel. Sebaiknya digunakan rutin 3x seminggu sebagai pengganti facial wash, dan dengan gerakan perlahan.",
+        "product_image": "peeling_gel"
+    },
+    {
+        "product_name": "Varian Masker",
+        "product_detail_name": "Rice Mask, Green Tea Mask, Honey Mask, dan Tea Tree Oil",
+        "product_description": "Varian masker Rice Mask Limpasu DRW Skincare dapat membantu mencerahkan kulit wajah anda, mengencangkan, melembabkan, mencegah penuaan dini, dan mampu mengatasi jerawat yang sedang meradang. Green Tea Mask Premium DRW Skincare membantu mengatasi kulit wajah yang berminyak, berjerawat, sensitive, dan memerah akibat terkena paparan sinar matahari. Honey Mask Premium DRW Skincare yang dapat membantu mengembalikan kelembapan pada masalah kulit kering anda. Tea Tree Oil DRW Skincare yang dikenal akan kemampuannya dalam merawat kulit berminyak dan mengatasi komedo yang disebabkan bercampurnya sebum dan kotoran. Gunakan secara rutin untuk hasil yang maksimal.",
+        "product_image": "masker"
+    },
+    {
+        "product_name": "Peel Off Masker",
+        "product_description": "Peel Off Gold DRW Skincare, membantu mengangkat komedo yang membandel, mengencangkan kulit, dan mencegah penuaan dini.",
+        "product_image": "peel_off_masker"
+    },
+    {
+        "product_name": "Varian Moisturiser",
+        "product_detail_name": "Moisturiser Aloevera Gel, Moisturiser Avocado Gel, dan Moisturiser Cucumber",
+        "product_description": "Moisture Aloevera Gel DRW Skincare membantu melembabkan kulit wajah, mengobati jerawat, mengatasi komedo membandel, menyamarkan noda hitam, membersihkan hingga ke pori-pori, dan mencerahkan. Moisture Avocado Gel DRW Skincare cocok untuk anda yang memiliki masalah kulit kering dan kusam. Dengan kandungan vitamin E serta minyak alaminya, mampu menutrisi kulit. Karena itulah, varian alpukat bagus untuk menjaga kelembapan kulit anda. Moisture Cucumber + vit E DRW Skincare dapat membantu menghidrasi kulit anda, mengatasi kantung mata, menyamarkan lingkaran hitam pada mata, dan juga dapat menenangkan kulit yang terbakar sinar matahari.",
+        "product_image": "moisturiser"
+    },
+    {
+        "product_name": "Facial Wash",
+        "product_description": "Facial Wash DRW Skincare, yang terbagi menjadi 4 macam sabun muka, sesuai dengan 4 jenis kulit. Terbuat dengan komposisi terbaik untuk membantu mengangkat kotoran hingga ke pori-pori.",
+        "product_image": "facial_wash"
+    },
+    {
+        "product_name": "Varian Toner",
+        "product_detail_name": "Toner Honey, Toner Lemon, dan Toner Chamomile",
+        "product_description": "Toner Honey DRW Skincare cocok untuk anda yang memiliki kulit kering dan normal. Dengan kandungan Hyaluronic Acid dan Glycerin nya mampu memberi kelembapan pada kulit wajah anda. Toner Lemon DRW Skincare diformulasikan untuk anda yang memiliki kulit berminyak. Toner ini, dapat membantu mengontrol produksi minyak pada kulit wajah anda. Toner Chamomile DRW Skincare toner yang cocok bagi anda yang memiliki kulit sensitive. Dengan kandungan chamomilenya, membantu menenangkan kulit wajah anda sehingga mencegah terjadinya iritasi.",
+        "product_usage": "Digunakan setelah cuci muka menggunakan Facial Wash DRW Skincare dan sebelum menggunakan rangkaian perawatan lainnya sebelum serum, dan cream. Cukup dituang pada kapas atau telapak tangan lalu tepuk tepuk perlahan secara merata pada kulit wajah.",
+        "product_image": "toner"
+    },
+    {
+        "product_name": "Varian Serum",
+        "product_detail_name": "Serum AHA/BHA, Serum Scar, dan Serum Brightening Glow",
+        "product_description": "Serum AHA/BHA DRW Skincare mengatasi jerawat yang sedang meradang, meratakan warna kulit, mengurangi kerutan dan penampakan pori-pori besar, menyingkirkan sel kulit mati, dan memperbaiki tekstur kulit wajah. Serum Scar DRW Skincare membantu menghilangkan bekas jerawat/bopeng, memperbaiki tekstur kulit wajah, dan mencerahkan. Serum Brightening Glow DRW Skincare, berfungsi untuk mencerahkan kulit wajah, menutrisi dan memberikan efek glow, membantu mengurangi flek hitam, mengurangi kerutan, dan melembapkan kuit.",
+        "product_image": "serum"
+    },
+    {
+        "product_name": "Night Cream",
+        "product_description": "Varian Night Cream DRW Skincare, yang dapat menjaga kulit agar tetap kencang, mengurangi garis-garis keriput, mengatasi jerawat dan beruntus, mencerahkan kulit, dan menghilangkan urat-urat merah pada wajah.",
+        "product_image": "nightcream"
+    },
+    {
+        "product_name": "Sunscreen",
+        "product_description": "Sunscreen DRW Skincare berfungsi untuk melindungi kulit dari paparan sinar matahari yang dapat merusak proses perawatan kulit wajah.",
+        "product_image": "sunscreen"
+    },
+    {
+        "product_name": "Snail Cream",
+        "product_description": "Snail Cream DRW Skincare, Krim ajaib yang dapat membantu mempercepat proses penyembuhan luka pada kulit, menghilangkan bekas luka, mencegah dan menyamarkan stretch mark, mengatasi luka akibat memencet jerawat, mengatasi iritasi pada kulit, melembapkan kulit, serta aman untuk ibu hamil dan menyusui.",
+        "product_image": "snail_cream"
+    },
+    {
+        "product_name": "Varian Bedak",
+        "product_detail_name": "Bedak Tabur, Bedak Padat, dan BB Cushion/Bedak Foundation",
+        "product_description": "Bedak Tabur DRW Skincare cocok untuk anda yang memiliki jenis kulit berjerawat dan berminyak. Selain untuk meratakan kulit wajah, bedak ini juga sangat ringan ketika diaplikasikan. Bedak Padat DRW Skincare, ialah bedak tabur yang dipadatkan dan ditambahkan beberapa formula seperti moisturizer (pelembab) sehingga teksturnya yang lebih berat, cocok digunakan untuk anda yang memiliki jenis kulit kering dan normal. BB Cushion/Bedak Foundation DRW Skincare, bedak sekaligus foundation yang juga sebagai pelembab yang dapat menutrisi kulit, meratakan warna kulit, menutupi noda di wajah, juga tidak berat dan tahan lama.",
+        "product_image": "powder"
+    },
+    {
+        "product_name": "Lips Care & Lips Cream",
+        "product_description": "Lips Care DRW Skincare, membantu menutrisi bibir anda agar tetap sehat, mengembalikan/mempertahankan warna alami bibir, melembabkan bibir, dan dapat dijadikan lipstick dengan warna yang alami dan tahan lama. Untuk warna yang soft, cukup dioleskan sekali pada bibir secara merata. Serta berkali-kali untuk mendapatkan warna yang lebih tua. Lips Cream DRW Skincare, krim bibir yang dapat mencerahkan warna bibir yang gelap akibat bawaan/rokok, menutrisi, hingga memberikan/menjaga kelembaban pada bibir.",
+        "product_image": "lips_care_lips_cream"
+    },
+    {
+        "product_name": "Lip Matte",
+        "product_description": "Lip Matte DRW Skincare, berfungsi untuk memberikan warna soft pada bibir, dengan kelebihannya yang tahan lama dan sangat ringan jika diaplikasikan. Anda juga tidak perlu khawatir akan warna bibir yang akan menggelap akibat penggunaan lip matte berlebih. Karena, Lip Matte DRW Skincare juga telah diformulasikan dengan vitamin yang dapat menutrisi bibir anda.",
+        "product_image": "lip_matte"
+    },
+    {
+        "product_name": "Lip Gloss",
+        "product_description": "Lip Gloss DRW Skincare, membantu memberikan/menjaga kelembaban bibir, menutrisi, mencerahkan, dan juga tahan lama.",
+        "product_image": "lip_gloss"
+    },
+    {
+        "product_name": "Lipstick",
+        "product_description": "Lipstick DRW Skincare, lipstick dengan berbagai varian warna yang dapat melembabkan dan mencerahkan warna bibir. Anda juga tidak perlu khawatir akan warna bibir yang akan menggelap akibat penggunaan lipstick berlebih. Karena, Lipstick DRW Skincare juga telah diformulasikan dengan vitamin yang dapat menutrisi bibir anda.",
+        "product_image": "lipstick"
+    },
+    {
+        "product_name": "Face Mist",
+        "product_description": "Face Mist DRW Skincare membantu menjadikan make up lebih tahan lama, memberikan efek sejuk dan menenangkan, membantu mengontrol minyak berlebih, dan menutrisi kulit.",
+        "product_image": "face_mist"
+    },
+    {
+        "product_name": "Varian Shampoo",
+        "product_detail_name": "Shampoo Aloevera & Shampoo Anti Dandruff",
+        "product_description": "Shampoo Aloevera DRW Skincare membantu menguatkan akar rambut, mencegah rambut rontok, mengatasi rambut rusak, menyehatkan kulit kepala, membuat rambut berkilau, melembutkan rambut, dan menutrisi rambut agar tidak mudah patah. Shampoo Anti Dandruff Skincare, membantu mencegah dan mengatasi ketombe, menutrisi rambut, menenangkan kulit kepala, dan melembutkan rambut.",
+        "product_image": "shampoo"
+    },
+    {
+        "product_name": "Varian Handbody",
+        "product_detail_name": "Day Lotion & Night Lotion",
+        "product_description": "Day Lotion DRW Skincare, berfungsi untuk mencerahkan dan melindungi kulit dari paparan sinar matahari yang dapat menggelapkan. Night Lotion DRW Skincare, berfungsi melembabkan kulit, menghaluskan kulit, serta mencerahkan dan memutihkan kulit secara merata.",
+        "product_image": "handbody"
+    },
+    {
+        "product_name": "Serum Bulu Mata",
+        "product_description": "Serum Bulu mata DRW Skincare, membantu menguatkan akar dan menyuburkan rambut alis serta bulu mata, menutrisi juga memperbaiki alis dan bulu mata yang rusak akibat pemakaian extension dan sulam alis.",
+        "product_image": "serum_bulu_mata"
+    }
+]

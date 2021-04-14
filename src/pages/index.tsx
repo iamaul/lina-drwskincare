@@ -24,7 +24,7 @@ import siteConfig from '~/site.config';
 const Index = () => {
   return (
     <>
-    <NextSeo title={siteConfig.title} titleTemplate='%s' />
+    {/* <NextSeo title={siteConfig.title} titleTemplate='%s' /> */}
     <Container maxW={'7xl'}>
       <Stack
         align={'center'}
